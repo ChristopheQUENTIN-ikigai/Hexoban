@@ -17,3 +17,6 @@ TODO:
 -replay might be broken
 
 -levels are currently not fun because to easy to finish.
+
+
+<img width="1631" height="948" alt="map_custom1" src="https://github.com/user-attachments/assets/a2c317c1-7430-4c14-8c5c-e26deba50900" />
