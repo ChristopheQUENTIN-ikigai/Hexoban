@@ -1,0 +1,28 @@
+{
+    "display": {
+        "autodetect": true,
+        "default_width": 1024,
+        "default_height": 768,
+        "tile_size": 64,
+        "fullscreen": true
+    },
+    "keys": {
+        "move_top_left": "KP_7",
+        "move_top_right": "KP_9",
+        "move_left": "KP_4",
+        "move_right": "KP_6",
+        "move_bottom_left": "KP_1",
+        "move_bottom_right": "KP_3",
+        "undo": "z",
+        "redo": "y",
+        "restart": "r",
+        "fullscreen_toggle": "f",
+        "quit": "ESCAPE",
+        "help": "h",
+        "menu": "m"
+    },
+    "game": {
+        "max_undo": 500,
+        "animation_speed": 8.0
+    }
+}
