@@ -1,4 +1,8 @@
 # Hexoban
+
+just use version of first june 2026 zip.
+
+
 Adaptation of Sokoban game with hex cells grid and other extra features, try to train AI to solve it.
 
 
